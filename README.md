@@ -1,6 +1,6 @@
 # UI Angular 2 Home Assignment
 
-<a href="http://ui-angular2.jude2go.com/">Live Demo</a>
+<a target="_blank" href="http://ui-angular2.jude2go.com/">Live Demo</a>
 
 ## Built with:
 <ul>
