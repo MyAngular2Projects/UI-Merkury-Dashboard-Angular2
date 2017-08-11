@@ -6,6 +6,7 @@
 <ul>
 <li>Angular 2/4</li>
 <li>Materialize CSS</li>
+<li>Flexbox</li>
 </ul>
 
 ## Code Review
