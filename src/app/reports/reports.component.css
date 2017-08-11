@@ -1,0 +1,24 @@
+.row {
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+
+}
+.report{
+    margin: 10px;
+    -webkit-flex: 1 0 0;
+   flex: 3 0 0;
+}
+.sales{
+    margin: 10px;
+    -webkit-flex: 1 0 0;
+   flex: 2 0 0;
+}
+
+.report-btn{
+    margin-bottom: 15px;
+    border-radius: 50px;
+    background-color: white;
+    color: #424242;
+    font-size: 10px;
+}

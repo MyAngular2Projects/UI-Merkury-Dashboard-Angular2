@@ -1,0 +1,31 @@
+.activity{
+    margin:10px;
+    flex-grow: 1;
+}
+
+.collection .collection-item.avatar{
+    min-height: 45px;
+}
+
+.header{
+    padding-left: 10px !important;
+    
+}
+.collection .collection-item.avatar .title  {
+    font-size: 13px;
+}
+.collection .collection-item.avatar p{
+    font-size: 12px;
+}
+
+.when{
+    color: #bdbdbd;
+}
+
+#activity-header{
+    border-bottom: 1px solid #bdbdbd;
+}
+
+.collection .collection-item.avatar.act{
+    border-bottom: 0px;
+}

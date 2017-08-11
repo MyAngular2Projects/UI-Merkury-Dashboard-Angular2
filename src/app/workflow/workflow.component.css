@@ -1,0 +1,57 @@
+
+.section.no-pad-bot {
+    
+    margin-right: 0px !important;
+}
+
+.row {
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+
+}
+
+.activity{
+    margin:10px;
+    flex-grow: 1;
+}
+
+
+.tasks{
+margin:10px;
+flex-grow: 1;
+}
+
+.collection .collection-item.avatar{
+    min-height: 45px;
+}
+
+.collection .collection-item.avatar:not(.circle-clipper) > .circle, .collection .collection-item.avatar :not(.circle-clipper) > .circle {
+    font-style: normal;
+}
+
+.urgent{
+    color: red;
+    font-size: 12px;
+}
+
+.header{
+    padding-left: 10px !important;
+    
+}
+.collection .collection-item.avatar .title  {
+    font-size: 13px;
+}
+.collection .collection-item.avatar p{
+    font-size: 12px;
+}
+
+
+
+#activity-header{
+    border-bottom: 1px solid #bdbdbd;
+}
+
+.collection .collection-item.avatar.act{
+    border-bottom: 0px;
+}
